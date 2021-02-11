@@ -1,4 +1,4 @@
-# first
+# Veather — Vue.js weather app
 
 ## Project setup
 ```
